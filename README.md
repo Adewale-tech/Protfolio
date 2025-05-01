@@ -2,7 +2,7 @@
 My Portfolio
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Waliyullah Osman</h1>
 <h3 align="center">💻 Backend Engineering Learner | 🚀 ALX Software Engineering Program</h3>
 
 <p align="center">
